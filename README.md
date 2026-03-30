@@ -1,18 +1,21 @@
-Hi, welcome to my garage 👋
-Developer — AI, Machine Learning, Backend Systems / Learn, Build, Share and Connect
-Website · GitHub · LinkedIn · X
+<div align="center">
 
-👨‍💻 About Me
-Developer with a strong focus on designing and building intelligent applications and solid backend systems. My work spans machine learning models, computer network implementations, and practical Java-driven tools.
+### Hi, welcome to my garage 👋
 
-I value continuous learning, reliability, and bridging the gap between theoretical computer science and real-world impact.
+Developer — AI, Machine Learning & Backend Systems / Learn, Build, Share and Connect
 
-📌 Pinned Projects
-Smart Receipt Scanner & Bill Splitter
-Automating and simplifying expense sharing with smart data extraction.
+[Website](#) · [GitHub](#) · [LinkedIn](#) · [X](#)
 
-Solo Leveling App
-An interactive, gamified application inspired by the series universe.
+</div>
 
+<br/>
 
-👀 Profile Views (Self-Hosted - sometimes it breaks because of the number of visits, I am on a free plan only)
+### 👨‍💻 About Me
+
+Developer with a strong focus on designing and delivering **intelligent, scalable backend systems** and **AI-powered applications**. My work spans **machine learning models**, **computer network implementations**, and **Java-driven tools**.
+
+I value **continuous learning, reliability, and practical impact** over complexity.
+
+*👀 Profile Views (Self-Hosted - sometime it has broken because number of visit, i am on free plan only)*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
