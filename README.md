@@ -1,20 +1,18 @@
-Hi there, I'm Naveen 👋
-I'm a developer based in Salem, Tamil Nadu, with a strong focus on building intelligent, practical applications and solid backend systems. I enjoy bridging the gap between theoretical computer science and real-world solutions, with a keen interest in how tech intersects with fields like Environmental Engineering.
+Hi, welcome to my garage 👋
+Developer — AI, Machine Learning, Backend Systems / Learn, Build, Share and Connect
+Website · GitHub · LinkedIn · X
 
-🚀 What I'm working on
-Smart Receipt Scanner & Bill Splitter: Developing an application to automate and simplify expense sharing.
+👨‍💻 About Me
+Developer with a strong focus on designing and building intelligent applications and solid backend systems. My work spans machine learning models, computer network implementations, and practical Java-driven tools.
 
-Solo Leveling App: Building a themed application inspired by the series.
+I value continuous learning, reliability, and bridging the gap between theoretical computer science and real-world impact.
 
-Continuous Learning: Diving deep into Java, Machine Learning, Artificial Intelligence, and Computer Networks.
+📌 Pinned Projects
+Smart Receipt Scanner & Bill Splitter
+Automating and simplifying expense sharing with smart data extraction.
 
-🛠️ Tech Stack & Skills
-Languages: Java, Python, HTML,
+Solo Leveling App
+An interactive, gamified application inspired by the series universe.
 
-Core Concepts: Machine Learning, AI, Computer Networks
 
-📫 How to reach me
-Email: naveenks1003@gmail.com
-
-LinkedIn: 
-
+👀 Profile Views (Self-Hosted - sometimes it breaks because of the number of visits, I am on a free plan only)
