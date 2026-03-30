@@ -4,7 +4,7 @@
 
 Developer — AI, Machine Learning & Backend Systems / Learn, Build, Share and Connect
 
-[Website](#) · [GitHub](#https://github.com/navyne02) · [LinkedIn](#www.linkedin.com/in/navyne02) · [X](#)
+[Website](#) · [GitHub](#www://github.com/navyne02) · [LinkedIn](#www.linkedin.com/in/navyne02) · [X](#)
 
 </div>
 
