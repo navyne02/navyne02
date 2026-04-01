@@ -12,7 +12,7 @@
 
 ### 🕹️ About Me
 
-Developer with a strong focus on designing and delivering **intelligent, scalable backend systems** and **AI-powered applications**. I specialize in building **ML models**, **computer network implementations**, and **Java-driven tools**.
+Developer with a strong focus on designing and delivering **intelligent, scalable backend systems** and **AI-powered applications**. I specialize in building **ML models**, **computer network implementations**, and **Java-driven tools**..
 
 I value **continuous learning, reliability, and practical impact** over complexity.
 
