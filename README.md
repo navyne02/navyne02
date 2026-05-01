@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ██╗ █████╗ ██╗   ██╗██╗   ██╗███╗   ██╗███████╗
-████╗  ██║██╔══██╗██║   ██║╚██╗ ██╔╝████╗  ██║██╔════╝
-██╔██╗ ██║███████║██║   ██║ ╚████╔╝ ██╔██╗ ██║█████╗  
-██║╚██╗██║██╔══██║╚██╗ ██╔╝  ╚██╔╝  ██║╚██╗██║██╔══╝  
-██║ ╚████║██║  ██║ ╚████╔╝    ██║   ██║ ╚████║███████╗
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═══╝╚══════╝
+███╗   ██╗ █████╗ ██╗   ██╗██╗   ██╗███╗   ██╗███████╗ ██████╗ ██████╗ 
+████╗  ██║██╔══██╗██║   ██║╚██╗ ██╔╝████╗  ██║██╔════╝██╔═══██╗╚════██╗
+██╔██╗ ██║███████║██║   ██║ ╚████╔╝ ██╔██╗ ██║█████╗  ██║   ██║ █████╔╝
+██║╚██╗██║██╔══██║╚██╗ ██╔╝  ╚██╔╝  ██║╚██╗██║██╔══╝  ██║   ██║██╔═══╝ 
+██║ ╚████║██║  ██║ ╚████╔╝    ██║   ██║ ╚████║███████╗╚██████╔╝███████╗
+╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
 ### 🤖 AI/ML Engineer · Backend Architect · Garage Builder
@@ -68,11 +68,12 @@ navyne = {
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| 🤖 **[Project Name]** | Brief description of your AI/ML project | Python · PyTorch |
-| 🌐 **[Project Name]** | Brief description of your backend/network project | Java · Spring |
-| 🔬 **[Project Name]** | Brief description of what you're experimenting with | Python · FastAPI |
-
-> 💡 *Replace the placeholders above with your real projects!*
+| 🧭 **[AI-Career-Compass-Pro](https://github.com/navyne02/AI-Career-Compass-Pro)** | AI-powered career guidance & path recommendation system | Python · ML |
+| 🍽️ **[Predict-Restaurant-Ratings](https://github.com/navyne02/Predict-Restaurant-Ratings)** | ML model that predicts restaurant ratings from key features | Python · scikit-learn |
+| 📱 **[Smartphone-Student-Addiction](https://github.com/navyne02/Smartphone_Student_Addiction)** | Data-driven analysis of smartphone usage patterns in students | Python · Pandas |
+| 🍜 **[Cuisine-Classification](https://github.com/navyne02/Cuisine-Classification)** | Classifies cuisines using machine learning techniques | Python · ML |
+| 🏪 **[Restaurant-Recommendation](https://github.com/navyne02/Restaurant-Recommendation)** | Personalized restaurant recommendation engine | Python · ML |
+| 📚 **[ML-Advanced](https://github.com/navyne02/ML_Advanced)** | Advanced ML concepts, experiments & implementations | Python · PyTorch |
 
 ---
 
