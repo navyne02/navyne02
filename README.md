@@ -83,6 +83,8 @@ navyne = {
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=navyne02&theme=tokyonight&hide_border=true)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=navyne02&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
