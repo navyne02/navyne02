@@ -74,6 +74,7 @@ navyne = {
 | 🍜 **[Cuisine-Classification](https://github.com/navyne02/Cuisine-Classification)** | Classifies cuisines using machine learning techniques | Python · ML |
 | 🏪 **[Restaurant-Recommendation](https://github.com/navyne02/Restaurant-Recommendation)** | Personalized restaurant recommendation engine | Python · ML |
 | 📚 **[ML-Advanced](https://github.com/navyne02/ML_Advanced)** | Advanced ML concepts, experiments & implementations | Python · PyTorch |
+| 🧗 **[ML-Journey](https://github.com/navyne02/ML_Journey)** | ML from zero to hero — one concept, one model, one day at a time | Python · scikit-learn · Jupyter |
 
 ---
 
