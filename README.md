@@ -11,7 +11,7 @@
 
 ### 🤖 AI/ML Engineer · Backend Architect · Garage Builder
 
-*Building intelligent systems that actually work in the real world.*
+*Building intelligent systems that actually work in the real world.......*
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navyne02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navyne02)
